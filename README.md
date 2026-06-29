@@ -6,7 +6,7 @@ Indian Institute of Information Technology (IIIT) Kottayam | DSA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;FastAPI+Backend+Developer;260%2B+LeetCode+Problems+Solved;Building+AI-Powered+Mobile+Applications&font=Fira%20Code&center=true&color=00F7FF&width=650&height=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;FastAPI+Backend+Developer;270%2B+LeetCode+Problems+Solved;Building+AI-Powered+Mobile+Applications&font=Fira%20Code&center=true&color=00F7FF&width=650&height=50"/>
 </p>
 
 <p align="center">

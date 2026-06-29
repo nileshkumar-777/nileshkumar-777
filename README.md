@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Nilesh Kumar</h1>
 
 <h3 align="center">
@@ -152,21 +151,9 @@ Indian Institute of Information Technology (IIIT) Kottayam | DSA Enthusiast
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nileshkumar-777&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkumar-777&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏅 Achievements
 
-- 🧠 Solved **270+ LeetCode** Data Structures & Algorithms problems
+- 🧠 Solved **260+ LeetCode** Data Structures & Algorithms problems
 - 👨‍💻 Sublead at **GDU**, mentoring juniors and organizing technical initiatives
 - 🌍 Built a Hacker News Aggregator using REST APIs
 - 🌱 Carbon Solution Hackathon (2024) Participant
@@ -207,4 +194,3 @@ Indian Institute of Information Technology (IIIT) Kottayam | DSA Enthusiast
 <h3 align="center">
 ⭐ Keep Learning • Keep Building • Keep Growing ⭐
 </h3>
-```

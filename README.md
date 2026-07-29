@@ -22,7 +22,7 @@ Indian Institute of Information Technology (IIIT) Kottayam | DSA Enthusiast
 - 📱 Flutter Developer passionate about building scalable mobile applications
 - ⚡ Backend Development using **FastAPI**
 - 🤖 Exploring AI Integration with **Gemini API**
-- 🧠 Solved **270+ LeetCode** problems
+- 🧠 Solved **300+ LeetCode** problems
 - 🌱 Currently learning Advanced Backend Architecture
 - 📍 Kottayam, Kerala
 
@@ -153,7 +153,7 @@ Indian Institute of Information Technology (IIIT) Kottayam | DSA Enthusiast
 
 # 🏅 Achievements
 
-- 🧠 Solved **260+ LeetCode** Data Structures & Algorithms problems
+- 🧠 Solved **300+ LeetCode** Data Structures & Algorithms problems
 - 👨‍💻 Sublead at **GDU**, mentoring juniors and organizing technical initiatives
 - 🌍 Built a Hacker News Aggregator using REST APIs
 - 🌱 Carbon Solution Hackathon (2024) Participant

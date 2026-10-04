@@ -6,7 +6,7 @@ Indian Institute of Information Technology (IIIT) Kottayam | DSA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;FastAPI+Backend+Developer;300%2B+LeetCode+Problems+Solved;Building+AI-Powered+Mobile+Applications&font=Fira%20Code&center=true&color=00F7FF&width=650&height=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;FastAPI+Backend+Developer;350%2B+LeetCode+Problems+Solved;Building+AI-Powered+Mobile+Applications&font=Fira%20Code&center=true&color=00F7FF&width=650&height=50"/>
 </p>
 
 <p align="center">
@@ -153,7 +153,7 @@ Indian Institute of Information Technology (IIIT) Kottayam | DSA Enthusiast
 
 # 🏅 Achievements
 
-- 🧠 Solved **300+ LeetCode** Data Structures & Algorithms problems
+- 🧠 Solved **350+ LeetCode** Data Structures & Algorithms problems
 - 👨‍💻 Sublead at **GDU**, mentoring juniors and organizing technical initiatives
 - 🌍 Built a Hacker News Aggregator using REST APIs
 - 🌱 Carbon Solution Hackathon (2024) Participant
